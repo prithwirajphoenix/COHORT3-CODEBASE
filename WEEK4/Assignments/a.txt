@@ -1,0 +1,3 @@
+GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. 
+It assists developers by providing code suggestions and autocompletions directly within their code editor.
+ Copilot leverages machine learning models trained on a vast amount of public code to understand context and generate relevant code snippets, making coding faster and more efficient.
